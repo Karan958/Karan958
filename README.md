@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karan Gupta</h1>
+![Header](./header (2).png)
+//<h1 align="center">Hi 👋, I'm Karan Gupta</h1>
 <h3 align="center">Final Year Undergrad Student</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEme6sCJc8t4_eAI5uIiVFJrk5soI4-q9TcZkiKcMB8oZJjiWR3ktZ7ef5hLuO8arBDA4&usqp=CAU">
 
