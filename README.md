@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Gupta</h1>
-<img align="center" alt="img" src="./header(2).png">
+<!--<img align="center" alt="img" src="https://github.com/Karan958/Karan958/blob/main/github-header-image%20(4).png"> -->
 <h3 align="center">Final Year Undergrad Student</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEme6sCJc8t4_eAI5uIiVFJrk5soI4-q9TcZkiKcMB8oZJjiWR3ktZ7ef5hLuO8arBDA4&usqp=CAU">
 
@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/karan-gupta-96a479204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-gupta-96a479204/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/__karan_gupta___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__karan_gupta___/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/colossus958/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/colossus958/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karan-gupta-96a479204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karan-gupta-96a479204" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__karan_gupta___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__karan_gupta___/" height="30" width="40" /></a>
+<a href="https://leetcode.com/colossus958/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/colossus958/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/gupta2001karan/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/gupta2001karan/practice" height="30" width="40" /></a>
 </p>
 
